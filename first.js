@@ -65,26 +65,26 @@
 // console.log("a=",a,"& b=",b);
 
 ////////////////////////////////////
-// let age=25;
+let age=25;
 
-// if (age > 18) {
-//     console.log("you can vote")
-// }
-
-// if (age < 18){
-//     console.log("you canNOT vote")
-// }
-
-let mode="light";
-let color;
-
-if(mode==="dark"){
-    color="black"
+if (age > 18) {
+    console.log("you can vote")
 }
 
-if(mode==="light"){
-    color="white"
+if (age < 18){
+    console.log("you canNOT vote")
 }
 
+// let mode="light";
+// let color;
 
-console.log(color);
+// if(mode==="dark"){
+//     color="black"
+// }
+
+// if(mode==="light"){
+//     color="white"
+// }
+
+
+// console.log(color);
