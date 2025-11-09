@@ -33,7 +33,6 @@
 
 // let a=5;
 // let b=2;
-
 // console.log("a+b=",a+b);
 // console.log("a-b=",a-b);
 // console.log("a*b=",a*b);
@@ -41,16 +40,27 @@
 // console.log("a%b=",a%b);
 // console.log("a**b=",a**b);
 
+////////////////////////////////////////
+
+// let a=5;
+// let b=2;
+// console.log("a=",a,"& b=",b);
+// a--;
+// b--;
+// console.log("b=",b);
+// console.log("a=",a);
+// console.log("--a=",--a)
+// console.log("--b=",--b)
+// console.log("a--=",a--)
+// console.log("++a=",++a);
+
+///////////////////////////////////////
 
 let a=5;
 let b=2;
 
+a += a; //a=a+a
+b -= b;
+a *= a;
+a %= a;
 console.log("a=",a,"& b=",b);
-a--;
-b--;
-console.log("b=",b);
-console.log("a=",a);
-console.log("--a=",--a)
-console.log("--b=",--b)
-console.log("a--=",a--)
-console.log("++a=",++a);
