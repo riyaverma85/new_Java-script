@@ -90,11 +90,22 @@
 
 
 
-let age=18;
+let mode="golden";
+ let color;
 
-if(age>=18){
-    console.log("voted")
+
+if( mode==="dark"){
+    color="black";
 }
+else if(mode==="pink"){
+    color="pink";
+}
+else if(mode==="light"){
+color="wite"
+}
+
 else{
-    console.log("Not voted")
+   color="blue"
 }
+
+console.log(color);
