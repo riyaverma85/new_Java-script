@@ -1,27 +1,37 @@
 
-console.log("hello my dear babuu");
+// console.log("hello my dear babuu");
 
- let Mycollege="Sistech";
+//  let Mycollege="Sistech";
 
-console.log( Mycollege);
+// console.log( Mycollege);
 
 
 
-const customer={
-    Name:"Ritika",
-    age:25,
-    city:"bhopal"
+// const customer={
+//     Name:"Ritika",
+//     age:25,
+//     city:"bhopal"
+// }
+
+// customer["city"]="jambu"
+// customer["age"]=customer["age"]-10
+// customer["Name"]="Rites Bhai"
+// console.log(customer["Name"])
+// console.log(customer["age"])
+// console.log(customer["city"])   
+
+
+
+
+
+const profile={
+    username:"sradhakhapra",
+    followers:56900,
+    following:4,
+    Entrepreneur:"Apna college",
 }
 
-customer["city"]="jambu"
-customer["age"]=customer["age"]-10
-customer["Name"]="Rites Bhai"
-console.log(customer["Name"])
-console.log(customer["age"])
-console.log(customer["city"])   
-
-
-
+console.log( typeof profile["Entrepreneur"])
 
 
 
