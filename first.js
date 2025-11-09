@@ -87,25 +87,31 @@
 // }
 
 // console.log(color);
+//////////////////////////////////////
+
+// let mode="golden";
+//  let color;
 
 
+// if( mode==="dark"){
+//     color="black";
+// }
+// else if(mode==="pink"){
+//     color="pink";
+// }
+// else if(mode==="light"){
+// color="wite"
+// }
 
-let mode="golden";
- let color;
+// else{
+//    color="blue"
+// }
 
+// console.log(color);
+/////////////////////////////////// 
 
-if( mode==="dark"){
-    color="black";
-}
-else if(mode==="pink"){
-    color="pink";
-}
-else if(mode==="light"){
-color="wite"
-}
+let age=25;
 
-else{
-   color="blue"
-}
+ age>=18 ?
 
-console.log(color);
+ console.log("vot"):console.log("not vot")
