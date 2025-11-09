@@ -21,15 +21,36 @@
 
 ////////////////////////////////////////////
 
-const profile={
-    username:"sradhakhapra",
-    followers:56900,
-    following:4,
-    Entrepreneur:"Apna college",
-}
-console.log( typeof profile["Entrepreneur"])
+// const profile={
+//     username:"sradhakhapra",
+//     followers:56900,
+//     following:4,
+//     Entrepreneur:"Apna college",
+// };
+// console.log( typeof profile["Entrepreneur"]);
+
+//////////////////////////////////
+
+// let a=5;
+// let b=2;
+
+// console.log("a+b=",a+b);
+// console.log("a-b=",a-b);
+// console.log("a*b=",a*b);
+// console.log("a/b=",a/b);
+// console.log("a%b=",a%b);
+// console.log("a**b=",a**b);
 
 
+let a=5;
+let b=2;
 
-
-
+console.log("a=",a,"& b=",b);
+a--;
+b--;
+console.log("b=",b);
+console.log("a=",a);
+console.log("--a=",--a)
+console.log("--b=",--b)
+console.log("a--=",a--)
+console.log("++a=",++a);
