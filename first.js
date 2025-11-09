@@ -118,6 +118,13 @@
 ///////////////////////////////////////////
 
 
-prompt("enter your name");
-alert("welcome riya")
-console.log("hello riya")
+// prompt("enter your name");
+// alert("welcome riya")
+// console.log("hello riya")
+//////////////////////////////
+
+let  num=prompt("enter a number")
+if(num%5===0){
+    console.log("divide")
+}
+else{console.log("not divide")}
