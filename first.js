@@ -110,8 +110,14 @@
 // console.log(color);
 /////////////////////////////////// 
 
-let age=25;
+// let age=25;
 
- age>=18 ?
+//  age>=18 ?
 
- console.log("vot"):console.log("not vot")
+//  console.log("vot"):console.log("not vot")
+///////////////////////////////////////////
+
+
+prompt("enter your name");
+alert("welcome riya")
+console.log("hello riya")
