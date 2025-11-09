@@ -65,16 +65,16 @@
 // console.log("a=",a,"& b=",b);
 
 ////////////////////////////////////
-let age=25;
+// let age=25;
 
-if (age > 18) {
-    console.log("you can vote")
-}
+// if (age > 18) {
+//     console.log("you can vote")
+// }
 
-if (age < 18){
-    console.log("you canNOT vote")
-}
-
+// if (age < 18){
+//     console.log("you canNOT vote")
+// }
+//////////////////////////////////
 // let mode="light";
 // let color;
 
@@ -86,5 +86,15 @@ if (age < 18){
 //     color="white"
 // }
 
-
 // console.log(color);
+
+
+
+let age=18;
+
+if(age>=18){
+    console.log("voted")
+}
+else{
+    console.log("Not voted")
+}
