@@ -89,10 +89,8 @@
 // console.log(color);
 //////////////////////////////////////
 
-// let mode="golden";
+// let mode="green";
 //  let color;
-
-
 // if( mode==="dark"){
 //     color="black";
 // }
@@ -102,18 +100,14 @@
 // else if(mode==="light"){
 // color="wite"
 // }
-
 // else{
 //    color="blue"
 // }
-
 // console.log(color);
 /////////////////////////////////// 
 
 // let age=25;
-
 //  age>=18 ?
-
 //  console.log("vot"):console.log("not vot")
 ///////////////////////////////////////////
 
@@ -130,21 +124,26 @@
 // else{console.log("not divide")}
 ///////////////////////////////////////
 
-let score=prompt("enter your score(0-100");
-let grade;
-if(score>=90&&score<=100){
-    grade="A";
+// let score=prompt("enter your score(0-100)");
+// let grade;
+// if(score>=90&&score<=100){
+//     grade="A";
+// }
+// else if(score>=70&&score<=90){
+//      grade="B"
+// }
+// else if(score>=60&&score<=69){
+//    grade="c"
+// }
+// else if(score>=50&&score<=59){
+//     grade="D"
+// }
+// else if(score>=0&&score<=49){
+//     grade="F"
+// }
+// console.log("your grade is",grade)
+///////////////////////////////////////
+
+for(let i=1; i<=10;i++){
+    console.log("hello babuu kya krre ho")
 }
-else if(score>=70&&score<=90){
-     grade="B"
-}
-else if(score>=60&&score<=69){
-   grade="c"
-}
-else if(score>=50&&score<=59){
-    grade="D"
-}
-else if(score>=0&&score<=49){
-    grade="F"
-}
-console.log("your grade is",grade)
