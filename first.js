@@ -144,6 +144,15 @@
 // console.log("your grade is",grade)
 ///////////////////////////////////////
 
-for(let i=1; i<=10;i++){
-    console.log("hello babuu kya krre ho")
+// for(let i=1; i<=10;i++){
+//     console.log("hello babuu kya krre ho")
+// }
+
+//////////////////////////////////////
+
+let sum=0;
+
+for(let i=1; i<=10; i++){
+    sum=sum+i;
 }
+console.log("the sum is",sum);
