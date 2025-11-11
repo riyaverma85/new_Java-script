@@ -150,9 +150,15 @@
 
 //////////////////////////////////////
 
-let sum=0;
+// let sum=0;
 
-for(let i=1; i<=10; i++){
-    sum=sum+i;
+// for(let i=1; i<=10; i++){
+//     sum=sum+i;
+// }
+// console.log("the sum is",sum);
+////////////////////////////////////////
+  let i=1;
+while(i<=5){
+    console.log("riya");
+    i++
 }
-console.log("the sum is",sum);
