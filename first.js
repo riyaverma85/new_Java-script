@@ -157,8 +157,15 @@
 // }
 // console.log("the sum is",sum);
 ////////////////////////////////////////
-  let i=1;
-while(i<=5){
-    console.log("riya");
-    i++
-}
+//   let i=1;
+// while(i<=5){
+//     console.log("riya");
+//     i++;  
+// }
+// console.log("loop end")
+/////////////////////////////////////
+let i=1;
+do{
+   console.log("shivani");
+   i++;
+}while(i<=5);
