@@ -170,3 +170,12 @@
 //    i++;
 // }while(i<=5);
 ////////////////////////////////////
+let student={
+   name:"Ritika",
+   age:25,
+   cgpa:7.0,
+   isPass:true,
+}
+for(let i in student){
+    console.log("i=",i,"value=",student[i]);
+}
