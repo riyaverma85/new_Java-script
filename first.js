@@ -195,7 +195,14 @@
 // }
 // console.log("right number guess")
 //////////////////////////////////////
+/////(((((((Array)))))))
+// let marks=[49,44,55,34,55,43];
+// console.log(marks);
+// console.log(marks.length)
 
-let marks=[49,44,55,34,55,43];
-console.log(marks);
-console.log(marks.length)
+//////////////////////////////////////
+
+let heroes=["salman","shahrukh","aamir","akshay","ranbir"];
+for(let i=0; i<heroes.length; i++){
+    console.log(heroes[i])
+}
