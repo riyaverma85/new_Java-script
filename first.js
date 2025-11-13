@@ -202,7 +202,19 @@
 
 //////////////////////////////////////
 
-let heroes=["salman","shahrukh","aamir","akshay","ranbir"];
-for(let i=0; i<heroes.length; i++){
-    console.log(heroes[i])
+// let heroes=["salman","shahrukh","aamir","akshay","ranbir"];
+// for(let i=0; i<heroes.length; i++){
+//     console.log(heroes[i])
+// }
+////////////////////////////////////////
+  
+//question
+
+let marks=[45,55,76,87,98,39];
+let sum=0;
+for(let val of marks){
+    sum=sum+val;
 }
+
+average=sum/marks.length;
+console.log(`the average is=${average}`);
