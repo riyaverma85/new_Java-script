@@ -187,10 +187,15 @@
 
 // }
 /////////////////////////////////////////
-let gameNum=50;
-let userNum=prompt("entera number");
-while(userNum!=gameNum){
-   userName=prompt("try again");
+// let gameNum=50;
+// let userNum=prompt("entera number");
+// while(userNum!=gameNum){
+//    userName=prompt("try again");
 
-}
-console.log("right number guess")
+// }
+// console.log("right number guess")
+//////////////////////////////////////
+
+let marks=[49,44,55,34,55,43];
+console.log(marks);
+console.log(marks.length)
