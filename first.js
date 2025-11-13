@@ -170,12 +170,19 @@
 //    i++;
 // }while(i<=5);
 ////////////////////////////////////
-let student={
-   name:"Ritika",
-   age:25,
-   cgpa:7.0,
-   isPass:true,
-}
-for(let i in student){
-    console.log("i=",i,"value=",student[i]);
+// let student={
+//    name:"Ritika",
+//    age:25,
+//    cgpa:7.0,
+//    isPass:true,
+// }
+// for(let i in student){
+//     console.log("i=",i,"value=",student[i]);
+// }
+/////////////////////////////////////////
+let sum=1;
+for(let i=0;i<=100;i++){
+    if(i%2==0) //even /odd(!)
+    console.log("i=",i)
+
 }
