@@ -180,9 +180,17 @@
 //     console.log("i=",i,"value=",student[i]);
 // }
 /////////////////////////////////////////
-let sum=1;
-for(let i=0;i<=100;i++){
-    if(i%2==0) //even /odd(!)
-    console.log("i=",i)
+// let sum=1;
+// for(let i=0;i<=100;i++){
+//     if(i%2==0) //even /odd(!)
+//     console.log("i=",i)
+
+// }
+/////////////////////////////////////////
+let gameNum=50;
+let userNum=prompt("entera number");
+while(userNum!=gameNum){
+   userName=prompt("try again");
 
 }
+console.log("right number guess")
