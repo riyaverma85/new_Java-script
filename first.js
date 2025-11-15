@@ -208,13 +208,21 @@
 // }
 ////////////////////////////////////////
   
-//question
+//question Average
 
-let marks=[45,55,76,87,98,39];
-let sum=0;
-for(let val of marks){
-    sum=sum+val;
-}
+// let marks=[45,55,76,87,98,39];
+// let sum=0;
+// for(let val of marks){
+//     sum=sum+val;
+// }
+// average=sum/marks.length;
+// console.log(`the average is=${average}`);
 
-average=sum/marks.length;
-console.log(`the average is=${average}`);
+//////////////////////////////////////////////
+/////////////////////  push  ///////////////
+  let food=["pizza","burger","pasta","maggii"];
+console.log(food);
+
+food.push("kachori","samosa");
+console.log(food);
+
