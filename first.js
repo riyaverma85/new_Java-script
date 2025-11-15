@@ -220,9 +220,18 @@
 
 //////////////////////////////////////////////
 /////////////////////  push  ///////////////
-  let food=["pizza","burger","pasta","maggii"];
-console.log(food);
+//   let food=["pizza","burger","pasta","maggii"];
+// console.log(food);
 
-food.push("kachori","samosa");
-console.log(food);
+// food.push("kachori","samosa");
+// console.log(food);
+//////////////////////////////////////////
+//////////////    pop    /////////////
 
+let fastfood=["poha","pizza","pasta","burger"];
+console.log(fastfood);
+// fastfood.pop(fastfood);
+// console.log(fastfood);
+let removeditms=fastfood.pop();
+console.log("removed itms=",removeditms);
+console.log(fastfood);
