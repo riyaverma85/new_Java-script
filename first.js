@@ -239,15 +239,14 @@
 ////////////////   tostring ///////////////////////
 ///////////////////splice ///////////////////////
 
-let food=["pizza","burger","pasta","maggii"];
-// console.log(food);
-food.splice(1,2,"cake"); /////////is method me 1 index se 2 itme ko delete krke cake add kr dega
+// let food=["pizza","burger","pasta","maggii"];
+// // console.log(food);
+// food.splice(1,2,"cake"); /////////is method me 1 index se 2 itme ko delete krke cake add kr dega
 
-
-//////////////slice//////////////////////////
+//////////////////////////////////////
+////slice////
 
 // let Heroes=["shaman","sharukh","aamir","akshay",];
-
 // console.log(Heroes.slice(2));////////// is method me 2 index diya to 2 ke bad vale index show honge  
 
 
@@ -264,4 +263,10 @@ food.splice(1,2,"cake"); /////////is method me 1 index se 2 itme ko delete krke 
 // console.log(companies)
 
 //////////////////////////////////////
+////FUNCTION/////////
 
+function myriya(){
+    console.log("hi baby")
+    console.log("hello babu what are you doing")
+}
+myriya();
