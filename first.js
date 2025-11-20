@@ -246,22 +246,22 @@
 
 //////////////slice//////////////////////////
 
-// let Heroes=["shaman","sharukh","aamir","akshay",];
+let Heroes=["shaman","sharukh","aamir","akshay",];
 
-// console.log(Heroes.slice(2));////////// is method me 2 index diya to 2 ke bad vale index show honge  
+console.log(Heroes.slice(2));////////// is method me 2 index diya to 2 ke bad vale index show honge  
 
 
 ///////////////////////QQQQQQQ/////////////////
 
-let companies=["Bloomnerg","Microsoft","Uber","Google","Netflix","IBM"]
+// let companies=["Bloomnerg","Microsoft","Uber","Google","Netflix","IBM"]
 
-// companies.shift();
+// // companies.shift();
   
-//  console.log(companies.splice(2,1,"ola"));
-//  console.log(companies)
+// //  console.log(companies.splice(2,1,"ola"));
+// //  console.log(companies)
 
-console.log(companies.push("Amazon"))
-console.log(companies)
+// console.log(companies.push("Amazon"))
+// console.log(companies)
 
 //////////////////////////////////////
 
