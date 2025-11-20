@@ -265,8 +265,7 @@
 //////////////////////////////////////
 ////FUNCTION/////////
 
-function myriya(){
-    console.log("hi baby")
-    console.log("hello babu what are you doing")
+function myriya(mess){
+    console.log(mess)
 }
-myriya();
+myriya("helo riya i love panipuri");
