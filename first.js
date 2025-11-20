@@ -265,7 +265,18 @@
 //////////////////////////////////////
 ////FUNCTION/////////
 
-function myriya(mess){
-    console.log(mess)
+// function myriya(mess){
+//     console.log(mess)
+// }
+// myriya("helo riya i love panipuri");
+
+/////////////////////////////
+///add number in function
+function addition(x,y){
+    s=x+y;
+    console.log(x)
+    return s;
 }
-myriya("helo riya i love panipuri");
+let val=addition(4,7)
+console.log(s);
+
