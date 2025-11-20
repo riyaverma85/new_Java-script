@@ -239,16 +239,16 @@
 ////////////////   tostring ///////////////////////
 ///////////////////splice ///////////////////////
 
-// let food=["pizza","burger","pasta","maggii"];
-// // console.log(food);
-// food.splice(1,2,"cake"); /////////is method me 1 index se 2 itme ko delete krke cake add kr dega
+let food=["pizza","burger","pasta","maggii"];
+// console.log(food);
+food.splice(1,2,"cake"); /////////is method me 1 index se 2 itme ko delete krke cake add kr dega
 
 
 //////////////slice//////////////////////////
 
-let Heroes=["shaman","sharukh","aamir","akshay",];
+// let Heroes=["shaman","sharukh","aamir","akshay",];
 
-console.log(Heroes.slice(2));////////// is method me 2 index diya to 2 ke bad vale index show honge  
+// console.log(Heroes.slice(2));////////// is method me 2 index diya to 2 ke bad vale index show honge  
 
 
 ///////////////////////QQQQQQQ/////////////////
