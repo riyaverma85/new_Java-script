@@ -228,10 +228,40 @@
 //////////////////////////////////////////
 //////////////    pop    /////////////
 
-let fastfood=["poha","pizza","pasta","burger"];
-console.log(fastfood);
-// fastfood.pop(fastfood);
+// let fastfood=["poha","pizza","pasta","burger"];
 // console.log(fastfood);
-let removeditms=fastfood.pop();
-console.log("removed itms=",removeditms);
-console.log(fastfood);
+// // fastfood.pop(fastfood);
+// // console.log(fastfood);
+// let removeditms=fastfood.pop();
+// console.log("removed itms=",removeditms);
+// console.log(fastfood);
+/////////////////////////////////////////
+////////////////   tostring ///////////////////////
+///////////////////splice ///////////////////////
+
+// let food=["pizza","burger","pasta","maggii"];
+// // console.log(food);
+// food.splice(1,2,"cake"); /////////is method me 1 index se 2 itme ko delete krke cake add kr dega
+
+
+//////////////slice//////////////////////////
+
+// let Heroes=["shaman","sharukh","aamir","akshay",];
+
+// console.log(Heroes.slice(2));////////// is method me 2 index diya to 2 ke bad vale index show honge  
+
+
+///////////////////////QQQQQQQ/////////////////
+
+let companies=["Bloomnerg","Microsoft","Uber","Google","Netflix","IBM"]
+
+// companies.shift();
+  
+//  console.log(companies.splice(2,1,"ola"));
+//  console.log(companies)
+
+console.log(companies.push("Amazon"))
+console.log(companies)
+
+//////////////////////////////////////
+
