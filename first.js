@@ -272,11 +272,30 @@
 
 /////////////////////////////
 ///add number in function
-function addition(x,y){
-    s=x+y;
-    console.log(x)
-    return s;
-}
-let val=addition(4,7)
-console.log(s);
+// function addition(x,y){
+//     s=x+y;
+//     console.log(x)
+//     return s;
+// }
+// let val=addition(4,7)
+// console.log(s);
+//////////////////////////////////////
+///calback function////
+// let nums=[21,34,54,45];
+// let calcSquare=(num)=>{
+//     console.log(num*num);
+// };
+// nums.forEach(calcSquare);
+    
 
+
+function shiv(){
+    let age=document.querySelector("#inp").value
+    age=Number(age);
+     if (age>=18){
+        alert("you can vote")
+     }
+     else{
+        alert("do not vote!")
+     }
+}
