@@ -289,13 +289,23 @@
     
 
 
-function shiv(){
-    let age=document.querySelector("#inp").value
-    age=Number(age);
-     if (age>=18){
-        alert("you can vote")
-     }
-     else{
-        alert("do not vote!")
-     }
-}
+// function shiv(){
+//     let age=document.querySelector("#inp").value
+//     age=Number(age);
+//      if (age>=18){
+//         alert("you can vote")
+//      }
+//      else{
+//         alert("do not vote!")
+//      }
+// }
+
+/////////////////    filter methode    ////////////////
+
+let arr=[1,2,3,4,5,6]
+
+ let evenarr =arr.filter((val)=>{
+   return val %2==0
+ })
+
+ con
