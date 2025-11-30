@@ -314,6 +314,8 @@
 
 let arr=[1,5,6,7,8,9];
 
-const output=arr.reduce((prev,curr)
+const output=arr.reduce((prev,curr)=>{
+   
+}
    
 )
