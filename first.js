@@ -302,10 +302,14 @@
 
 /////////////////    filter methode    ////////////////
 
-let arr=[1,2,3,4,5,6]
+// let arr=[1,2,3,4,5,6]
 
- let evenarr =arr.filter((val)=>{
-   return val %2!==0    //////even ke liye === lga de/////
- })
+//  let evenarr =arr.filter((val)=>{
+//    return val %2!==0    //////even ke liye === lga de/////
+//  })
 
- console.log(evenarr)
+//  console.log(evenarr)
+
+////////////////////    arr methode //////
+
+let arr=[1,5,6,7,8,9]
