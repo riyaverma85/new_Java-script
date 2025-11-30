@@ -316,4 +316,4 @@ let arr=[1,5,6,7,8,9];
 
 const output=arr.reduce((prev,curr)=>{
    return prev>curr ? prev:curr;
-})
+});
