@@ -262,16 +262,16 @@
 // console.log(companies.push("Amazon"))
 // console.log(companies)
 
-//////////////////////////////////////
-////FUNCTION/////////
+
+///////////////////////  FUNCTION  /////////
 
 // function myriya(mess){
 //     console.log(mess)
 // }
 // myriya("helo riya i love panipuri");
 
-/////////////////////////////
-///add number in function
+
+///////// add number in function ///////////////////////////////////
 // function addition(x,y){
 //     s=x+y;
 //     console.log(x)
@@ -279,8 +279,9 @@
 // }
 // let val=addition(4,7)
 // console.log(s);
-//////////////////////////////////////
-///calback function////
+
+///calback function//////////////////////////////////////////////////////
+
 // let nums=[21,34,54,45];
 // let calcSquare=(num)=>{
 //     console.log(num*num);
