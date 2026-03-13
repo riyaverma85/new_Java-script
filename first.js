@@ -1,9 +1,9 @@
 
-console.log("hello my dear babuu");
+// console.log("hello my dear babuu");
 
- let Mycollege="Sistech";
+//  let Mycollege="Sistech";
 
-console.log( Mycollege);
+// console.log( Mycollege);
 
 /////////////////////////////////
 
