@@ -1,9 +1,9 @@
 
-// console.log("hello my dear babuu");
+console.log("hello my dear babuu");
 
-//  let Mycollege="Sistech";
+ let Mycollege="Sistech";
 
-// console.log( Mycollege);
+console.log( Mycollege);
 
 /////////////////////////////////
 
@@ -313,10 +313,10 @@
 
 ////////////////////    arr methode //////
 
- let arr = [1,5,6,7,8,9];
+//  let arr = [1,5,6,7,8,9];
 
- const Output = arr.reduce((prev,curr) => {
-     return prev > curr ? prev:curr;
- });
+//  const Output = arr.reduce((prev,curr) => {
+//      return prev > curr ? prev:curr;
+//  });
 
- console.log(Output);
+//  console.log(Output);
