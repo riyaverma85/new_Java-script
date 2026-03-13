@@ -29,7 +29,7 @@ console.log( Mycollege);
 // };
 // console.log( typeof profile["Entrepreneur"]);
 
-//////////////////////////////////
+///////////////////   + , - , / , % , *   ///////////////
 
 // let a=5;
 // let b=2;
