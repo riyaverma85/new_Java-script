@@ -27,7 +27,7 @@
 //     following:4,
 //     Entrepreneur:"Apna college",
 //   };
-// console.log( typeof profile["Entrepreneur"]);
+//  console.log( typeof profile["Entrepreneur"]);
 
 ///////////////////   + , - , / , % , *   ///////////////
 
