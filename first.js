@@ -26,7 +26,7 @@
 //     followers:56900,
 //     following:4,
 //     Entrepreneur:"Apna college",
-// };
+//  };
 // console.log( typeof profile["Entrepreneur"]);
 
 ///////////////////   + , - , / , % , *   ///////////////
