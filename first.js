@@ -75,7 +75,7 @@
 //     console.log("you canNOT vote")
 // }
 //////////////////////////////////
-// let mode="light";
+// let mode ="light";
 // let color;
 
 // if(mode==="dark"){
