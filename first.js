@@ -78,7 +78,7 @@
 // let mode = "light";
 // let color;
 
-// if(mode ==="dark"){
+// if(mode === "dark"){
 //     color="black"
 // }
 
