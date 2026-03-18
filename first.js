@@ -89,7 +89,7 @@
 // console.log(color);
 //////////////////////////////////////
 
-// let mode ="green";
+// let mode = "green";
 //  let color;
 // if( mode==="dark"){
 //     color="black";
