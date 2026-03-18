@@ -82,7 +82,7 @@
 //     color="black"
 // }
 
-// if(mode==="light"){
+// if(mode ==="light"){
 //     color="white"
 // }
 
