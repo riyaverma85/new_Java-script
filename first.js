@@ -94,7 +94,7 @@
 // if( mode ==="dark"){
 //     color ="black";
 // }
-// else if(mode==="pink"){
+// else if(mode === "pink"){
 //     color="pink";
 // }
 // else if(mode==="light"){
