@@ -91,7 +91,7 @@
 
 // let mode = "green";
 //  let color;
-// if( mode==="dark"){
+// if( mode ==="dark"){
 //     color="black";
 // }
 // else if(mode==="pink"){
