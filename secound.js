@@ -1,3 +1,3 @@
 function abd(){
-    let a
+    let a =12
 }
