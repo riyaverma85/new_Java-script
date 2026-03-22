@@ -196,7 +196,7 @@
 // console.log("right number guess")
 //////////////////////////////////////
 /////(((((((Array)))))))
-// let marks=[49,44,55,34,55,43];
+// let marks =[49,44,55,34,55,43];
 // console.log(marks);
 // console.log(marks.length)
 
