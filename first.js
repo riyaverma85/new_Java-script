@@ -189,7 +189,7 @@
 /////////////////////////////////////////
 // let gameNum = 50;
 // let userNum=prompt("entera number");
-// while(userNum!= gameNum){
+// while(userNum! = gameNum){
 //    userName=prompt("try again");
 
 // }
