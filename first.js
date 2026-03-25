@@ -97,7 +97,7 @@
 // else if(mode === "pink"){
 //     color = "pink";
 // }
-// else if(mode==="light"){
+// else if(mode ==="light"){
 // color="wite"
 // }
 // else{
