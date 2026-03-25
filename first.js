@@ -101,7 +101,7 @@
 // color="wite"
 // }
 // else{
-//    color="blue"
+//    color ="blue"
 // }
 // console.log(color);
 /////////////////////////////////// 
