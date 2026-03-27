@@ -282,7 +282,7 @@
 
 /////////  calback function  //////////////////////////////////////////////////////
 
-// let nums=[21,34,54,45];
+// let nums =[21,34,54,45];
 // let calcSquare=(num)=>{
 //     console.log(num*num);
 // };
