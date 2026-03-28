@@ -283,7 +283,7 @@
 /////////  calback function  //////////////////////////////////////////////////////
 
 // let nums =[21,34,54,45];
-// let calcSquare=(num)=>{
+// let calcSquare= .,.,(num)=>{
 //     console.log(num*num);
 // };
 // nums.forEach(calcSquare);
