@@ -293,7 +293,7 @@
 // function shiv(){
 //     let age = document.querySelector("#inp").value
 //     age = Number(age);
-//      if (age> =18){
+//      if (age> = 18){
 //         alert("you can vote")
 //      }
 //      else{
