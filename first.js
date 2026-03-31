@@ -232,7 +232,7 @@
 // console.log(fastfood);
 // // fastfood.pop(fastfood);
 // // console.log(fastfood);
-// let removeditms=fastfood.pop();
+// let removeditms =fastfood.pop();
 // console.log("removed itms=",removeditms);
 // console.log(fastfood);
 /////////////////////////////////////////
