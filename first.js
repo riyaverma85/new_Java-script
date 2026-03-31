@@ -277,7 +277,7 @@
 //     console.log(x)
 //     return s;
 // }
-// let val=addition(4,7)
+// let val= addition(4,7)
 // console.log(s);
 
 /////////  calback function  //////////////////////////////////////////////////////
