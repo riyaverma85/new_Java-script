@@ -213,7 +213,7 @@
 // let marks=[45,55,76,87,98,39];
 // let sum=0;
 // for(let val of marks){
-//     sum =sum+val;
+//     sum = sum+val;
 // }
 // average=sum/marks.length;
 // console.log(`the average is=${average}`);
