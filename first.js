@@ -211,7 +211,7 @@
 //question Average//////////////////////////////////////////////
 
 // let marks=[45,55,76,87,98,39];
-// let sum =0;
+// let sum = 0;
 // for(let val of marks){
 //     sum = sum+val;
 // }
