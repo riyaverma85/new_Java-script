@@ -216,7 +216,7 @@
 //     sum = sum+val;
 // }
 // average=sum/marks.length;
-// console.log(`the average is= ${average}`);
+// console.log(`the average is = ${average}`);
 
 //////////////////////////////////////////////
 /////////////////////  push  ///////////////
