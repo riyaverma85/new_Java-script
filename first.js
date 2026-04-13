@@ -203,7 +203,7 @@
 //////////////////////////////////////
 
 // let heroes=["salman","shahrukh","aamir","akshay","ranbir"];
-// for(let i=0; i<heroes.length; i++){
+// for(let i= 0; i<heroes.length; i++){
 //     console.log(heroes[i])
 // }
 ////////////////////////////////////////
