@@ -188,7 +188,7 @@
 // }
 /////////////////////////////////////////
 // let gameNum = 50;
-// let userNum=prompt("entera number");
+// let userNum =prompt("entera number");
 // while(userNum! = gameNum){
 //    userName=prompt("try again");
 
