@@ -190,7 +190,7 @@
 // let gameNum = 50;
 // let userNum = prompt("entera number");
 // while(userNum! = gameNum){
-//    userName=prompt("try again");
+//    userName= prompt("try again");
 
 // }
 // console.log("right number guess")
