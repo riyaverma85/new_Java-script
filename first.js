@@ -164,7 +164,7 @@
 // }
 // console.log("loop end")
 /////////////////////////////////////
-// let i= 1;
+// let i = 1;
 // do{
 //    console.log("shivani");
 //    i++;
