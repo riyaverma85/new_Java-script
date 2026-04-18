@@ -170,7 +170,7 @@
 //    i++;
 // }while(i<=5);
 ////////////////////////////////////
-// let student={
+// let student= {
 //    name:"Ritika",
 //    age:25,
 //    cgpa:7.0,
