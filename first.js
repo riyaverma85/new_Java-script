@@ -132,7 +132,7 @@
 // else if(score>=70&&score<=90){
 //      grade="B"
 // }
-// else if(score>=60&&score<=69){
+// else if(score>= 60&&score<=69){
 //    grade="c"
 // }
 // else if(score> =50&&score<=59){
