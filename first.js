@@ -158,7 +158,7 @@
 // console.log("the sum is",sum);
 ////////////////////////////////////////
 //   let i = 1;
-// while(i<=5){
+// while(i<= 5){
 //     console.log("riya");
 //     i++;  
 // }
