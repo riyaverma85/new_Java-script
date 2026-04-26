@@ -127,7 +127,7 @@
 // let score=prompt("enter your score(0-100)");
 // let grade;
 // if(score>=90&&score<=100){
-//     grade ="A";
+//     grade = "A";
 // }
 // else if(score>=70&&score<=90){
 //      grade="B"
