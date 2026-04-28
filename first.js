@@ -1,7 +1,7 @@
 
 // console.log("hello my dear babuu");
 
-//  let Mycollege ="Sistech";
+//  let Mycollege = ,.,.,."Sistech";
 
 // console.log( Mycollege);
 
