@@ -59,7 +59,7 @@
 // let a=5;
 // let b=2;
 // a + = a; //a=a+a
-// b -= b;
+// b - = b;
 // a *= a;
 // a %= a;
 // console.log("a =",a,"& b=",b);
