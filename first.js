@@ -60,7 +60,7 @@
 // let b=2;
 // a + = a; //a=a+a
 // b - = b;
-// a *= a;
+// a * = a;
 // a %= a;
 // console.log("a =",a,"& b=",b);
 
